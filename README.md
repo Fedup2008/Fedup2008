@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fedup2008
+- 👋 Hi, I’m @abubakr
 - 👀 I’m interested in programming and lerning language
 - 🌱 I’m currently learning python , english
 - 📫 How to reach me : finding my email . Email(abubakrabdumalikov777@gmail,com)
